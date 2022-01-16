@@ -4,7 +4,7 @@
 
 ```js
 This is a simple react pagination boilerplate.
-If you make any improvements on create a pull request thanks.
+If you make any improvements create a pull request thanks.
 
 ```
 
