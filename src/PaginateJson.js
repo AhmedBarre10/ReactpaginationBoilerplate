@@ -21,8 +21,7 @@ const PaginateJson = () => {
         <>
           <p>
             <p>{todo.title}</p>
-
-            {parseInt(todo.id).toString()}
+            {todo.id}
           </p>
         </>
       );
